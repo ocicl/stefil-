@@ -4,7 +4,7 @@
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/GrammaTech/stefil-.git   |
-| commit  | {"messa  |
+| commit  | d4a4be6  |
 | systems | stefil- |
 |---------+-------------------------------------------|
 
