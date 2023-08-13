@@ -2,9 +2,8 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/GrammaTech/stefil-.git   |
-| commit  | d4a4be6  |
-| systems | stefil- |
-|---------+-------------------------------------------|
-
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/GrammaTech/stefil-.git |
+| commit  | d4a4be6                                       |
+| systems | (stefil+)                                     |
+|---------+-----------------------------------------------|
